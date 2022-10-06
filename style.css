@@ -628,7 +628,7 @@ zoom:1;
 }
 .Projects header#ttr_header 
 {
-background:url(images/ProjectsDesktopheader.jpg);
+background:url(/ProjectsDesktopheader.jpg);
 background-color:#06895F;
 background-repeat:no-repeat;
 background-size:cover;
@@ -684,7 +684,7 @@ margin:0;
 }
  #prev span
 {
-background-image:url(images/Leftbutton.png);
+background-image:url(/Leftbutton.png);
 display:block;
 height: 30px;
 width: 30px;
@@ -693,7 +693,7 @@ font-size:0px;
 }
  #next span
 {
-background-image:url(images/Rightbutton.png);
+background-image:url(/Rightbutton.png);
 display:block;
 height: 30px;
 width: 30px;
@@ -1827,7 +1827,7 @@ zoom:1;
 }
 .Services header#ttr_header 
 {
-background:url(images/ServicesDesktopheader.jpg);
+background:url(/ServicesDesktopheader.jpg);
 background-color:#039B68;
 background-repeat:no-repeat;
 background-size:cover;
@@ -2712,7 +2712,7 @@ zoom:1;
 }
 .Contact header#ttr_header 
 {
-background:url(images/ContactDesktopheader.jpg);
+background:url(/ContactDesktopheader.jpg);
 background-color:#169D74;
 background-repeat:no-repeat;
 background-size:cover;
@@ -4051,7 +4051,7 @@ zoom:1;
 }
 .About-Us header#ttr_header 
 {
-background:url(images/About-UsDesktopheader.jpg);
+background:url(/About-UsDesktopheader.jpg);
 background-color:#039B68;
 background-repeat:no-repeat;
 background-size:cover;
@@ -5998,7 +5998,7 @@ z-index:499;
 }
  .ttr_footer_facebook 
 {
-background: url(images/footerfacebook.png);
+background: url(/footerfacebook.png);
 background-repeat: no-repeat;
 top:34px;
 left:85.54%;
@@ -6015,7 +6015,7 @@ transform:rotate(0deg);
 }
  .ttr_footer_twitter 
 {
-background: url(images/footertwitter.png);
+background: url(/footertwitter.png);
 background-repeat: no-repeat;
 top:34px;
 left:88.63%;
@@ -6032,7 +6032,7 @@ transform:rotate(0deg);
 }
  .ttr_footer_googleplus 
 {
-background: url(images/footergoogleplus.png);
+background: url(/footergoogleplus.png);
 background-repeat: no-repeat;
 top:34px;
 left:91.73%;
@@ -6595,7 +6595,7 @@ display:none;
 }
  header#ttr_header 
 {
-background:url(images/HomeDesktopheader.jpg);
+background:url(/HomeDesktopheader.jpg);
 background-color:#FFFFFF;
 background-repeat:no-repeat;
 background-size:cover;
@@ -8665,11 +8665,11 @@ box-shadow:none;
 }
  #ttr_content blockquote p:before
 {
-content:url(images/HomeDesktopblockquotestarticon.png);
+content:url(/HomeDesktopblockquotestarticon.png);
 }
  #ttr_content blockquote p:after
 {
-content:url(images/HomeDesktopblockquoteendicon.png);
+content:url(/HomeDesktopblockquoteendicon.png);
 }
  #ttr_content .postedon a
 {
@@ -9114,7 +9114,7 @@ font-size:0;
 }
  #prev span
 {
-background-image:url(images/Leftbutton00.png);
+background-image:url(/Leftbutton00.png);
 display:block;
 height: 30px;
 width: 30px;
@@ -9123,7 +9123,7 @@ font-size:0px;
 }
  #next span
 {
-background-image:url(images/Rightbutton00.png);
+background-image:url(/Rightbutton00.png);
 display:block;
 height: 30px;
 width: 30px;
@@ -10378,7 +10378,7 @@ z-index:499;
 }
  .ttr_footer_facebook 
 {
-background: url(images/footerfacebook.png);
+background: url(/footerfacebook.png);
 background-repeat: no-repeat;
 top:34px;
 left:80.75%;
@@ -10395,7 +10395,7 @@ transform:rotate(0deg);
 }
  .ttr_footer_twitter 
 {
-background: url(images/footertwitter.png);
+background: url(/footertwitter.png);
 background-repeat: no-repeat;
 top:34px;
 left:86.1%;
@@ -10412,7 +10412,7 @@ transform:rotate(0deg);
 }
  .ttr_footer_googleplus 
 {
-background: url(images/footergoogleplus.png);
+background: url(/footergoogleplus.png);
 background-repeat: no-repeat;
 top:34px;
 left:91.71%;
@@ -11121,7 +11121,7 @@ z-index:499;
 }
  .ttr_footer_facebook 
 {
-background: url(images/footerfacebook.png);
+background: url(/footerfacebook.png);
 background-repeat: no-repeat;
 top:22px;
 left:30.67%;
@@ -11138,7 +11138,7 @@ transform:rotate(0deg);
 }
  .ttr_footer_twitter 
 {
-background: url(images/footertwitter.png);
+background: url(/footertwitter.png);
 background-repeat: no-repeat;
 top:22px;
 left:0;
@@ -11157,7 +11157,7 @@ transform:rotate(0deg);
 }
  .ttr_footer_googleplus 
 {
-background: url(images/footergoogleplus.png);
+background: url(/footergoogleplus.png);
 background-repeat: no-repeat;
 top:22px;
 left:58.67%;
