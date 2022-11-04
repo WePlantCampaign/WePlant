@@ -628,7 +628,7 @@ zoom:1;
 }
 .Projects header#ttr_header 
 {
-background:url(images/ProjectsDesktopheader.jpg);
+background:url(/ProjectsDesktopheader.jpg);
 background-color:#06895F;
 background-repeat:no-repeat;
 background-size:cover;
@@ -6595,7 +6595,7 @@ display:none;
 }
  header#ttr_header 
 {
-background:url(HomeDesktopheader.jpg);
+background-image: url(/HomeDesktopheader.jpg);
 background-color:#FFFFFF;
 background-repeat:no-repeat;
 background-size:cover;
